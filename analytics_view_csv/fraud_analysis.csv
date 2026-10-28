@@ -1,0 +1,229 @@
+"year","segment","fraud_type","fraud_category","fraud_domain","cases","value_gbp_m","prevented_gbp_m","payments","returned_gbp_m","source_page","total_attempted_gbp_m","prevention_rate_pct"
+2020,Non-Personal,Advance_Fee_Scam,APP Scam,Authorised (APP),517,1,,798,0.3,"UK Finance 2026, p.40",,
+2020,Personal,Advance_Fee_Scam,APP Scam,Authorised (APP),13316,21.2,,22434,7.4,"UK Finance 2026, p.40",,
+2021,Non-Personal,Advance_Fee_Scam,APP Scam,Authorised (APP),545,1.4,,804,0.9,"UK Finance 2026, p.40",,
+2021,Personal,Advance_Fee_Scam,APP Scam,Authorised (APP),19950,30.8,,36166,10.9,"UK Finance 2026, p.40",,
+2022,Non-Personal,Advance_Fee_Scam,APP Scam,Authorised (APP),458,1.5,,768,0.6,"UK Finance 2026, p.40",,
+2022,Personal,Advance_Fee_Scam,APP Scam,Authorised (APP),26871,30.7,,50463,17.2,"UK Finance 2026, p.40",,
+2023,Non-Personal,Advance_Fee_Scam,APP Scam,Authorised (APP),323,2,,737,0.8,"UK Finance 2026, p.40",,
+2023,Personal,Advance_Fee_Scam,APP Scam,Authorised (APP),23526,29.4,,50223,20.4,"UK Finance 2026, p.40",,
+2024,Non-Personal,Advance_Fee_Scam,APP Scam,Authorised (APP),334,2.9,,793,1.5,"UK Finance 2026, p.40",,
+2024,Personal,Advance_Fee_Scam,APP Scam,Authorised (APP),17126,32.4,,39961,18.8,"UK Finance 2026, p.40",,
+2025,Non-Personal,Advance_Fee_Scam,APP Scam,Authorised (APP),435,2.4,,951,1.2,"UK Finance 2026, p.40",,
+2025,Personal,Advance_Fee_Scam,APP Scam,Authorised (APP),23645,56,,82310,33.7,"UK Finance 2026, p.40",,
+2020,Non-Personal,CEO_Scam,APP Scam,Authorised (APP),275,3.9,,360,1.4,"UK Finance 2026, p.42",,
+2020,Personal,CEO_Scam,APP Scam,Authorised (APP),82,0.9,,127,0.5,"UK Finance 2026, p.42",,
+2021,Non-Personal,CEO_Scam,APP Scam,Authorised (APP),396,11.6,,579,2.1,"UK Finance 2026, p.42",,
+2021,Personal,CEO_Scam,APP Scam,Authorised (APP),65,1.1,,99,0.7,"UK Finance 2026, p.42",,
+2022,Non-Personal,CEO_Scam,APP Scam,Authorised (APP),382,12.9,,535,3.2,"UK Finance 2026, p.42",,
+2022,Personal,CEO_Scam,APP Scam,Authorised (APP),50,0.6,,80,0.3,"UK Finance 2026, p.42",,
+2023,Non-Personal,CEO_Scam,APP Scam,Authorised (APP),382,11.2,,555,3,"UK Finance 2026, p.42",,
+2023,Personal,CEO_Scam,APP Scam,Authorised (APP),29,0.3,,36,0.1,"UK Finance 2026, p.42",,
+2024,Non-Personal,CEO_Scam,APP Scam,Authorised (APP),241,11.1,,343,2,"UK Finance 2026, p.42",,
+2024,Personal,CEO_Scam,APP Scam,Authorised (APP),36,0.7,,109,0.3,"UK Finance 2026, p.42",,
+2025,Non-Personal,CEO_Scam,APP Scam,Authorised (APP),171,4.8,,216,1.1,"UK Finance 2026, p.42",,
+2025,Personal,CEO_Scam,APP Scam,Authorised (APP),26,0.7,,36,0,"UK Finance 2026, p.42",,
+2020,Non-Personal,Investment_Scam,APP Scam,Authorised (APP),281,5.8,,601,1.2,"UK Finance 2026, p.38",,
+2020,Personal,Investment_Scam,APP Scam,Authorised (APP),7900,103.6,,19322,39,"UK Finance 2026, p.38",,
+2021,Non-Personal,Investment_Scam,APP Scam,Authorised (APP),169,5.5,,594,2,"UK Finance 2026, p.38",,
+2021,Personal,Investment_Scam,APP Scam,Authorised (APP),11905,166.2,,35071,72.7,"UK Finance 2026, p.38",,
+2022,Non-Personal,Investment_Scam,APP Scam,Authorised (APP),144,4.8,,446,1.7,"UK Finance 2026, p.38",,
+2022,Personal,Investment_Scam,APP Scam,Authorised (APP),9941,109.3,,30065,56.9,"UK Finance 2026, p.38",,
+2023,Non-Personal,Investment_Scam,APP Scam,Authorised (APP),166,9.3,,616,2.7,"UK Finance 2026, p.38",,
+2023,Personal,Investment_Scam,APP Scam,Authorised (APP),10060,98.6,,32780,56.3,"UK Finance 2026, p.38",,
+2024,Non-Personal,Investment_Scam,APP Scam,Authorised (APP),201,18,,759,3.8,"UK Finance 2026, p.38",,
+2024,Personal,Investment_Scam,APP Scam,Authorised (APP),11608,140.1,,40827,69.5,"UK Finance 2026, p.38",,
+2025,Non-Personal,Investment_Scam,APP Scam,Authorised (APP),290,17.6,,1531,7.2,"UK Finance 2026, p.38",,
+2025,Personal,Investment_Scam,APP Scam,Authorised (APP),14603,203.8,,55682,99.3,"UK Finance 2026, p.38",,
+2020,Non-Personal,Invoice_Scam,APP Scam,Authorised (APP),1818,43.6,,2416,15.4,"UK Finance 2026, p.41",,
+2020,Personal,Invoice_Scam,APP Scam,Authorised (APP),2903,25.1,,3904,14.3,"UK Finance 2026, p.41",,
+2021,Non-Personal,Invoice_Scam,APP Scam,Authorised (APP),1775,36.8,,2491,10.8,"UK Finance 2026, p.41",,
+2021,Personal,Invoice_Scam,APP Scam,Authorised (APP),2555,19.9,,3676,11.8,"UK Finance 2026, p.41",,
+2022,Non-Personal,Invoice_Scam,APP Scam,Authorised (APP),1469,34.5,,2129,14,"UK Finance 2026, p.41",,
+2022,Personal,Invoice_Scam,APP Scam,Authorised (APP),1871,15,,2836,12.4,"UK Finance 2026, p.41",,
+2023,Non-Personal,Invoice_Scam,APP Scam,Authorised (APP),1625,35,,2233,11.1,"UK Finance 2026, p.41",,
+2023,Personal,Invoice_Scam,APP Scam,Authorised (APP),1485,15.3,,2176,12.4,"UK Finance 2026, p.41",,
+2024,Non-Personal,Invoice_Scam,APP Scam,Authorised (APP),1307,32.3,,1883,12.5,"UK Finance 2026, p.41",,
+2024,Personal,Invoice_Scam,APP Scam,Authorised (APP),1054,10.7,,1515,8.6,"UK Finance 2026, p.41",,
+2025,Non-Personal,Invoice_Scam,APP Scam,Authorised (APP),1217,28,,2092,10.6,"UK Finance 2026, p.41",,
+2025,Personal,Invoice_Scam,APP Scam,Authorised (APP),1088,13.3,,1637,9.4,"UK Finance 2026, p.41",,
+2020,Non-Personal,Other_Impersonation,APP Scam,Authorised (APP),1387,5.4,,2510,2.1,"UK Finance 2026, p.44",,
+2020,Personal,Other_Impersonation,APP Scam,Authorised (APP),18341,24,,30824,24,"UK Finance 2026, p.44",,
+2021,Non-Personal,Other_Impersonation,APP Scam,Authorised (APP),994,7.4,,1983,2.5,"UK Finance 2026, p.44",,
+2021,Personal,Other_Impersonation,APP Scam,Authorised (APP),25233,34.3,,42643,34.3,"UK Finance 2026, p.44",,
+2022,Non-Personal,Other_Impersonation,APP Scam,Authorised (APP),956,6.5,,1468,2.7,"UK Finance 2026, p.44",,
+2022,Personal,Other_Impersonation,APP Scam,Authorised (APP),27463,39.6,,45608,39.6,"UK Finance 2026, p.44",,
+2023,Non-Personal,Other_Impersonation,APP Scam,Authorised (APP),1028,5.4,,1621,2.6,"UK Finance 2026, p.44",,
+2023,Personal,Other_Impersonation,APP Scam,Authorised (APP),22534,37.8,,36557,37.8,"UK Finance 2026, p.44",,
+2024,Non-Personal,Other_Impersonation,APP Scam,Authorised (APP),920,4.2,,1327,2.4,"UK Finance 2026, p.44",,
+2024,Personal,Other_Impersonation,APP Scam,Authorised (APP),18850,33.1,,30764,24.6,"UK Finance 2026, p.44",,
+2025,Non-Personal,Other_Impersonation,APP Scam,Authorised (APP),850,5.4,,1473,3.5,"UK Finance 2026, p.44",,
+2025,Personal,Other_Impersonation,APP Scam,Authorised (APP),17585,31.6,,29932,26.2,"UK Finance 2026, p.44",,
+2020,Non-Personal,Police_Bank_Impersonation,APP Scam,Authorised (APP),978,6.6,,3365,3.8,"UK Finance 2026, p.43",,
+2020,Personal,Police_Bank_Impersonation,APP Scam,Authorised (APP),20199,84.3,,37232,48.3,"UK Finance 2026, p.43",,
+2021,Non-Personal,Police_Bank_Impersonation,APP Scam,Authorised (APP),777,7,,1875,3.9,"UK Finance 2026, p.43",,
+2021,Personal,Police_Bank_Impersonation,APP Scam,Authorised (APP),28629,130.3,,60931,75.4,"UK Finance 2026, p.43",,
+2022,Non-Personal,Police_Bank_Impersonation,APP Scam,Authorised (APP),535,9.1,,1391,6.3,"UK Finance 2026, p.43",,
+2022,Personal,Police_Bank_Impersonation,APP Scam,Authorised (APP),16413,100.7,,47139,76,"UK Finance 2026, p.43",,
+2023,Non-Personal,Police_Bank_Impersonation,APP Scam,Authorised (APP),506,11.1,,1515,6.1,"UK Finance 2026, p.43",,
+2023,Personal,Police_Bank_Impersonation,APP Scam,Authorised (APP),10088,67.8,,29237,55.3,"UK Finance 2026, p.43",,
+2024,Non-Personal,Police_Bank_Impersonation,APP Scam,Authorised (APP),317,4.9,,792,3.3,"UK Finance 2026, p.43",,
+2024,Personal,Police_Bank_Impersonation,APP Scam,Authorised (APP),7472,63,,20039,44.1,"UK Finance 2026, p.43",,
+2025,Non-Personal,Police_Bank_Impersonation,APP Scam,Authorised (APP),326,5.5,,985,3.9,"UK Finance 2026, p.43",,
+2025,Personal,Police_Bank_Impersonation,APP Scam,Authorised (APP),5690,50,,18211,40.2,"UK Finance 2026, p.43",,
+2020,Non-Personal,Purchase_Scam,APP Scam,Authorised (APP),4078,6.5,,5168,1.6,"UK Finance 2026, p.37",,
+2020,Personal,Purchase_Scam,APP Scam,Authorised (APP),80214,44.7,,102325,13,"UK Finance 2026, p.37",,
+2021,Non-Personal,Purchase_Scam,APP Scam,Authorised (APP),2351,7.4,,2969,2,"UK Finance 2026, p.37",,
+2021,Personal,Purchase_Scam,APP Scam,Authorised (APP),97382,56.8,,129442,18.9,"UK Finance 2026, p.37",,
+2022,Non-Personal,Purchase_Scam,APP Scam,Authorised (APP),2753,7.4,,3667,2.8,"UK Finance 2026, p.37",,
+2022,Personal,Purchase_Scam,APP Scam,Authorised (APP),114417,59.6,,155451,35.3,"UK Finance 2026, p.37",,
+2023,Non-Personal,Purchase_Scam,APP Scam,Authorised (APP),3679,8.9,,4904,4.2,"UK Finance 2026, p.37",,
+2023,Personal,Purchase_Scam,APP Scam,Authorised (APP),152837,77,,214690,51.6,"UK Finance 2026, p.37",,
+2024,Non-Personal,Purchase_Scam,APP Scam,Authorised (APP),3264,10.7,,4835,4.5,"UK Finance 2026, p.37",,
+2024,Personal,Purchase_Scam,APP Scam,Authorised (APP),163534,87.9,,234956,56.3,"UK Finance 2026, p.37",,
+2025,Non-Personal,Purchase_Scam,APP Scam,Authorised (APP),4178,11.3,,6488,6.7,"UK Finance 2026, p.37",,
+2025,Personal,Purchase_Scam,APP Scam,Authorised (APP),171631,106.8,,256388,85.1,"UK Finance 2026, p.37",,
+2020,Non-Personal,Romance_Scam,APP Scam,Authorised (APP),73,0.5,,407,0.1,"UK Finance 2026, p.39",,
+2020,Personal,Romance_Scam,APP Scam,Authorised (APP),2252,17.3,,12778,6.5,"UK Finance 2026, p.39",,
+2021,Non-Personal,Romance_Scam,APP Scam,Authorised (APP),25,0.3,,91,0.2,"UK Finance 2026, p.39",,
+2021,Personal,Romance_Scam,APP Scam,Authorised (APP),3245,30.6,,25723,12.4,"UK Finance 2026, p.39",,
+2022,Non-Personal,Romance_Scam,APP Scam,Authorised (APP),32,0.4,,101,0.2,"UK Finance 2026, p.39",,
+2022,Personal,Romance_Scam,APP Scam,Authorised (APP),3617,30.9,,30119,16.3,"UK Finance 2026, p.39",,
+2023,Non-Personal,Romance_Scam,APP Scam,Authorised (APP),26,0.4,,183,0.3,"UK Finance 2026, p.39",,
+2023,Personal,Romance_Scam,APP Scam,Authorised (APP),4134,36.1,,39395,22.6,"UK Finance 2026, p.39",,
+2024,Non-Personal,Romance_Scam,APP Scam,Authorised (APP),33,0.8,,263,0.4,"UK Finance 2026, p.39",,
+2024,Personal,Romance_Scam,APP Scam,Authorised (APP),5177,31,,49013,19.4,"UK Finance 2026, p.39",,
+2025,Non-Personal,Romance_Scam,APP Scam,Authorised (APP),37,0.5,,429,0.3,"UK Finance 2026, p.39",,
+2025,Personal,Romance_Scam,APP Scam,Authorised (APP),6298,38.7,,61072,25.8,"UK Finance 2026, p.39",,
+2016,All,Account_Takeover,Account Fraud,Unauthorised,20798,24.4,,,,"UK Finance 2026, p.26",,
+2017,All,Account_Takeover,Account Fraud,Unauthorised,20797,18.4,,,,"UK Finance 2026, p.26",,
+2018,All,Account_Takeover,Account Fraud,Unauthorised,35588,17.9,,,,"UK Finance 2026, p.26",,
+2019,All,Account_Takeover,Account Fraud,Unauthorised,35212,20.3,,,,"UK Finance 2026, p.26",,
+2020,All,Account_Takeover,Account Fraud,Unauthorised,21605,14.6,,,,"UK Finance 2026, p.26",,
+2021,All,Account_Takeover,Account Fraud,Unauthorised,22570,15.4,,,,"UK Finance 2026, p.26",,
+2022,All,Account_Takeover,Account Fraud,Unauthorised,65377,34.5,,,,"UK Finance 2026, p.26",,
+2023,All,Account_Takeover,Account Fraud,Unauthorised,121650,47.4,,,,"UK Finance 2026, p.26",,
+2024,All,Account_Takeover,Account Fraud,Unauthorised,90919,42,,,,"UK Finance 2026, p.26",,
+2025,All,Account_Takeover,Account Fraud,Unauthorised,82030,37.8,,,,"UK Finance 2026, p.26",,
+2016,All,Internet_Banking,Banking Channel,Unauthorised,20088,101.8,,,,"UK Finance 2026, p.31",,
+2017,All,Internet_Banking,Banking Channel,Unauthorised,21745,121.2,,,,"UK Finance 2026, p.31",,
+2018,All,Internet_Banking,Banking Channel,Unauthorised,20904,123,,,,"UK Finance 2026, p.31",,
+2019,All,Internet_Banking,Banking Channel,Unauthorised,25849,111.8,,,,"UK Finance 2026, p.31",,
+2020,All,Internet_Banking,Banking Channel,Unauthorised,55995,159.7,,,,"UK Finance 2026, p.31",,
+2021,All,Internet_Banking,Banking Channel,Unauthorised,72557,158.3,,,,"UK Finance 2026, p.31",,
+2022,All,Internet_Banking,Banking Channel,Unauthorised,32036,114.1,,,,"UK Finance 2026, p.31",,
+2023,All,Internet_Banking,Banking Channel,Unauthorised,13669,88.7,,,,"UK Finance 2026, p.31",,
+2024,All,Internet_Banking,Banking Channel,Unauthorised,9176,77.8,,,,"UK Finance 2026, p.31",,
+2025,All,Internet_Banking,Banking Channel,Unauthorised,9562,52.6,,,,"UK Finance 2026, p.31",,
+2016,All,Mobile_Banking,Banking Channel,Unauthorised,2809,5.7,,,,"UK Finance 2026, p.32",,
+2017,All,Mobile_Banking,Banking Channel,Unauthorised,3424,6.5,,,,"UK Finance 2026, p.32",,
+2018,All,Mobile_Banking,Banking Channel,Unauthorised,2956,7.9,,,,"UK Finance 2026, p.32",,
+2019,All,Mobile_Banking,Banking Channel,Unauthorised,6872,15.2,,,,"UK Finance 2026, p.32",,
+2020,All,Mobile_Banking,Banking Channel,Unauthorised,10155,21.6,,,,"UK Finance 2026, p.32",,
+2021,All,Mobile_Banking,Banking Channel,Unauthorised,11270,25.8,,,,"UK Finance 2026, p.32",,
+2022,All,Mobile_Banking,Banking Channel,Unauthorised,12361,34.2,,,,"UK Finance 2026, p.32",,
+2023,All,Mobile_Banking,Banking Channel,Unauthorised,20032,45.5,,,,"UK Finance 2026, p.32",,
+2024,All,Mobile_Banking,Banking Channel,Unauthorised,20879,49,,,,"UK Finance 2026, p.32",,
+2025,All,Mobile_Banking,Banking Channel,Unauthorised,25180,43.9,,,,"UK Finance 2026, p.32",,
+2016,All,Remote_Banking_Total,Banking Channel,Unauthorised,33392,137,205.4,,,"UK Finance 2026, Table062",342.4,60.0
+2017,All,Remote_Banking_Total,Banking Channel,Unauthorised,34746,156.1,261.1,,,"UK Finance 2026, Table062",417.2,62.6
+2018,All,Remote_Banking_Total,Banking Channel,Unauthorised,31797,152.9,317.7,,,"UK Finance 2026, Table062",470.6,67.5
+2019,All,Remote_Banking_Total,Banking Channel,Unauthorised,43920,150.7,268.9,,,"UK Finance 2026, Table062",419.6,64.1
+2020,All,Remote_Banking_Total,Banking Channel,Unauthorised,73640,197.3,393.8,,,"UK Finance 2026, Table062",591.1,66.6
+2021,All,Remote_Banking_Total,Banking Channel,Unauthorised,88450,199.5,365.5,,,"UK Finance 2026, Table062",565.0,64.7
+2022,All,Remote_Banking_Total,Banking Channel,Unauthorised,47473,163.1,174.1,,,"UK Finance 2026, Table062",337.2,51.6
+2023,All,Remote_Banking_Total,Banking Channel,Unauthorised,37412,151.7,218.1,,,"UK Finance 2026, Table062",369.8,59.0
+2024,All,Remote_Banking_Total,Banking Channel,Unauthorised,33788,143.5,265.4,,,"UK Finance 2026, Table062",408.9,64.9
+2025,All,Remote_Banking_Total,Banking Channel,Unauthorised,37646,104.4,240.2,,,"UK Finance 2026, Table062",344.6,69.7
+2016,All,Telephone_Banking,Banking Channel,Unauthorised,10495,29.6,,,,"UK Finance 2026, p.32",,
+2017,All,Telephone_Banking,Banking Channel,Unauthorised,9577,28.4,,,,"UK Finance 2026, p.32",,
+2018,All,Telephone_Banking,Banking Channel,Unauthorised,7937,22,,,,"UK Finance 2026, p.32",,
+2019,All,Telephone_Banking,Banking Channel,Unauthorised,11199,23.6,,,,"UK Finance 2026, p.32",,
+2020,All,Telephone_Banking,Banking Channel,Unauthorised,7490,16.1,,,,"UK Finance 2026, p.32",,
+2021,All,Telephone_Banking,Banking Channel,Unauthorised,4623,15.5,,,,"UK Finance 2026, p.32",,
+2022,All,Telephone_Banking,Banking Channel,Unauthorised,3076,14.7,,,,"UK Finance 2026, p.32",,
+2023,All,Telephone_Banking,Banking Channel,Unauthorised,3711,17.6,,,,"UK Finance 2026, p.32",,
+2024,All,Telephone_Banking,Banking Channel,Unauthorised,3733,16.7,,,,"UK Finance 2026, p.32",,
+2025,All,Telephone_Banking,Banking Channel,Unauthorised,2904,7.9,,,,"UK Finance 2026, p.32",,
+2016,All,Card_ID_Theft,Card Fraud,Unauthorised,31756,40,423.5,,,"UK Finance 2026, Table042",463.5,91.4
+2017,All,Card_ID_Theft,Card Fraud,Unauthorised,29156,29.8,29.8,,,"UK Finance 2026, Table042",59.6,50.0
+2018,All,Card_ID_Theft,Card Fraud,Unauthorised,63791,47.3,47.3,,,"UK Finance 2026, Table042",94.6,50.0
+2019,All,Card_ID_Theft,Card Fraud,Unauthorised,54165,37.7,37.7,,,"UK Finance 2026, Table042",75.4,50.0
+2020,All,Card_ID_Theft,Card Fraud,Unauthorised,34545,29.7,29.7,,,"UK Finance 2026, Table042",59.4,50.0
+2021,All,Card_ID_Theft,Card Fraud,Unauthorised,38753,26.3,26.3,,,"UK Finance 2026, Table042",52.6,50.0
+2022,All,Card_ID_Theft,Card Fraud,Unauthorised,82064,51.7,51.7,,,"UK Finance 2026, Table042",103.4,50.0
+2023,All,Card_ID_Theft,Card Fraud,Unauthorised,142445,79.1,79.1,,,"UK Finance 2026, Table042",158.2,50.0
+2024,All,Card_ID_Theft,Card Fraud,Unauthorised,115326,61.5,61.5,,,"UK Finance 2026, Table042",123.0,50.0
+2025,All,Card_ID_Theft,Card Fraud,Unauthorised,103171,54,54,,,"UK Finance 2026, Table042",108,50.0
+2016,All,Card_Not_Present(CNP),Card Fraud,Unauthorised,1437832,432.3,432.3,,,"UK Finance 2026, p.25",864.6,50.0
+2017,All,Card_Not_Present(CNP),Card Fraud,Unauthorised,1398153,408.4,408.4,,,"UK Finance 2026, p.25",816.8,50.0
+2018,All,Card_Not_Present(CNP),Card Fraud,Unauthorised,2050275,506.4,506.4,,,"UK Finance 2026, p.25",1012.8,50.0
+2019,All,Card_Not_Present(CNP),Card Fraud,Unauthorised,2157418,470.2,470.2,,,"UK Finance 2026, p.25",940.4,50.0
+2020,All,Card_Not_Present(CNP),Card Fraud,Unauthorised,2417866,452.6,452.6,,,"UK Finance 2026, p.25",905.2,50.0
+2021,All,Card_Not_Present(CNP),Card Fraud,Unauthorised,2425099,412.5,412.5,,,"UK Finance 2026, p.25",825.0,50.0
+2022,All,Card_Not_Present(CNP),Card Fraud,Unauthorised,2221026,395.7,395.7,,,"UK Finance 2026, p.25",791.4,50.0
+2023,All,Card_Not_Present(CNP),Card Fraud,Unauthorised,2127201,360.5,360.5,,,"UK Finance 2026, p.25",721.0,50.0
+2024,All,Card_Not_Present(CNP),Card Fraud,Unauthorised,2830293,412.5,412.5,,,"UK Finance 2026, p.25",825.0,50.0
+2016,All,Card_Not_Received(CNR),Card Fraud,Unauthorised,11377,12.5,10.2,,,"UK Finance 2026, p.24",22.7,44.9
+2017,All,Card_Not_Received(CNR),Card Fraud,Unauthorised,10903,10.2,6.3,,,"UK Finance 2026, p.24",16.5,38.2
+2018,All,Card_Not_Received(CNR),Card Fraud,Unauthorised,10046,6.3,5.2,,,"UK Finance 2026, p.24",11.5,45.2
+2019,All,Card_Not_Received(CNR),Card Fraud,Unauthorised,7907,5.2,4.4,,,"UK Finance 2026, p.24",9.6,45.8
+2020,All,Card_Not_Received(CNR),Card Fraud,Unauthorised,8435,4.4,3.9,,,"UK Finance 2026, p.24",8.3,47.0
+2021,All,Card_Not_Received(CNR),Card Fraud,Unauthorised,8941,3.9,4,,,"UK Finance 2026, p.24",7.9,50.6
+2022,All,Card_Not_Received(CNR),Card Fraud,Unauthorised,8848,4,3,,,"UK Finance 2026, p.24",7,42.9
+2023,All,Card_Not_Received(CNR),Card Fraud,Unauthorised,5933,3,3,,,"UK Finance 2026, p.24",6,50.0
+2024,All,Card_Not_Received(CNR),Card Fraud,Unauthorised,7398,3,2.8,,,"UK Finance 2026, p.24",5.8,48.3
+2025,All,Card_Not_Received(CNR),Card Fraud,Unauthorised,7888,2.8,,,,"UK Finance 2026, p.24",,
+2016,All,Counterfeit_Card,Card Fraud,Unauthorised,108597,36.9,36.9,,,"UK Finance 2026, Table042",73.8,50.0
+2017,All,Counterfeit_Card,Card Fraud,Unauthorised,85025,24.2,24.2,,,"UK Finance 2026, Table042",48.4,50.0
+2018,All,Counterfeit_Card,Card Fraud,Unauthorised,58636,16.3,16.3,,,"UK Finance 2026, Table042",32.6,50.0
+2019,All,Counterfeit_Card,Card Fraud,Unauthorised,65907,12.8,12.8,,,"UK Finance 2026, Table042",25.6,50.0
+2020,All,Counterfeit_Card,Card Fraud,Unauthorised,52782,8.7,8.7,,,"UK Finance 2026, Table042",17.4,50.0
+2021,All,Counterfeit_Card,Card Fraud,Unauthorised,24908,4.7,4.7,,,"UK Finance 2026, Table042",9.4,50.0
+2022,All,Counterfeit_Card,Card Fraud,Unauthorised,19594,4.7,4.7,,,"UK Finance 2026, Table042",9.4,50.0
+2023,All,Counterfeit_Card,Card Fraud,Unauthorised,18070,4.7,4.7,,,"UK Finance 2026, Table042",9.4,50.0
+2024,All,Counterfeit_Card,Card Fraud,Unauthorised,14988,3.9,3.9,,,"UK Finance 2026, Table042",7.8,50.0
+2025,All,Counterfeit_Card,Card Fraud,Unauthorised,18477,4.7,4.7,,,"UK Finance 2026, Table042",9.4,50.0
+2020,All,Cheque_Fraud,Cheque,Unauthorised,1247,12.3,238.5,,,"UK Finance 2026, Table060",250.8,95.1
+2021,All,Cheque_Fraud,Cheque,Unauthorised,815,6.4,33.1,,,"UK Finance 2026, Table060",39.5,83.8
+2022,All,Cheque_Fraud,Cheque,Unauthorised,966,7.5,19.8,,,"UK Finance 2026, Table060",27.3,72.5
+2023,All,Cheque_Fraud,Cheque,Unauthorised,1197,5.6,12.3,,,"UK Finance 2026, Table060",17.9,68.7
+2024,All,Cheque_Fraud,Cheque,Unauthorised,1106,8.1,53.8,,,"UK Finance 2026, Table060",61.9,86.9
+2025,All,Cheque_Fraud,Cheque,Unauthorised,795,4.1,107.4,,,"UK Finance 2026, Table060",111.5,96.3
+2016,All,ATM_Fraud,In-Person Fraud,Unauthorised,,43.1,,,,"UK Finance 2026, p.28",,
+2017,All,ATM_Fraud,In-Person Fraud,Unauthorised,,37.2,,,,"UK Finance 2026, p.28",,
+2018,All,ATM_Fraud,In-Person Fraud,Unauthorised,,32.6,,,,"UK Finance 2026, p.28",,
+2019,All,ATM_Fraud,In-Person Fraud,Unauthorised,,30,,,,"UK Finance 2026, p.28",,
+2020,All,ATM_Fraud,In-Person Fraud,Unauthorised,,28.1,,,,"UK Finance 2026, p.28",,
+2021,All,ATM_Fraud,In-Person Fraud,Unauthorised,,24.4,,,,"UK Finance 2026, p.28",,
+2022,All,ATM_Fraud,In-Person Fraud,Unauthorised,,26.1,,,,"UK Finance 2026, p.28",,
+2023,All,ATM_Fraud,In-Person Fraud,Unauthorised,,25.6,,,,"UK Finance 2026, p.28",,
+2024,All,ATM_Fraud,In-Person Fraud,Unauthorised,,25.8,,,,"UK Finance 2026, p.28",,
+2025,All,ATM_Fraud,In-Person Fraud,Unauthorised,,25.7,,,,"UK Finance 2026, p.28",,
+2016,All,UK_Retail_Face_To_Face,In-Person Fraud,Unauthorised,,62.8,,,,"UK Finance 2026, p.27",,
+2017,All,UK_Retail_Face_To_Face,In-Person Fraud,Unauthorised,,61.9,,,,"UK Finance 2026, p.27",,
+2018,All,UK_Retail_Face_To_Face,In-Person Fraud,Unauthorised,,69.8,,,,"UK Finance 2026, p.27",,
+2019,All,UK_Retail_Face_To_Face,In-Person Fraud,Unauthorised,,64.3,,,,"UK Finance 2026, p.27",,
+2020,All,UK_Retail_Face_To_Face,In-Person Fraud,Unauthorised,,48.9,,,,"UK Finance 2026, p.27",,
+2021,All,UK_Retail_Face_To_Face,In-Person Fraud,Unauthorised,,48.3,,,,"UK Finance 2026, p.27",,
+2022,All,UK_Retail_Face_To_Face,In-Person Fraud,Unauthorised,,72,,,,"UK Finance 2026, p.27",,
+2023,All,UK_Retail_Face_To_Face,In-Person Fraud,Unauthorised,,88.7,,,,"UK Finance 2026, p.27",,
+2024,All,UK_Retail_Face_To_Face,In-Person Fraud,Unauthorised,,85.3,,,,"UK Finance 2026, p.27",,
+2025,All,UK_Retail_Face_To_Face,In-Person Fraud,Unauthorised,,86.3,,,,"UK Finance 2026, p.27",,
+2018,All,Internet_eCommerce,Remote Purchase,Unauthorised,,254.4,,,,"UK Finance 2026, p.28",,
+2019,All,Internet_eCommerce,Remote Purchase,Unauthorised,,232.6,,,,"UK Finance 2026, p.28",,
+2020,All,Internet_eCommerce,Remote Purchase,Unauthorised,,242.8,,,,"UK Finance 2026, p.28",,
+2021,All,Internet_eCommerce,Remote Purchase,Unauthorised,,236.1,,,,"UK Finance 2026, p.28",,
+2022,All,Internet_eCommerce,Remote Purchase,Unauthorised,,220.5,,,,"UK Finance 2026, p.28",,
+2023,All,Internet_eCommerce,Remote Purchase,Unauthorised,,202.4,,,,"UK Finance 2026, p.28",,
+2024,All,Internet_eCommerce,Remote Purchase,Unauthorised,,230.9,,,,"UK Finance 2026, p.28",,
+2025,All,Internet_eCommerce,Remote Purchase,Unauthorised,,250.8,,,,"UK Finance 2026, p.28",,
+2016,All,Third_Party_Apps,Third-Party Apps,Unauthorised,10958,15.6,,,,"UK Finance 2026, p.26",,
+2017,All,Third_Party_Apps,Third-Party Apps,Unauthorised,8359,11.3,,,,"UK Finance 2026, p.26",,
+2018,All,Third_Party_Apps,Third-Party Apps,Unauthorised,28203,29.4,,,,"UK Finance 2026, p.26",,
+2019,All,Third_Party_Apps,Third-Party Apps,Unauthorised,18953,17.4,,,,"UK Finance 2026, p.26",,
+2020,All,Third_Party_Apps,Third-Party Apps,Unauthorised,12940,15.1,,,,"UK Finance 2026, p.26",,
+2021,All,Third_Party_Apps,Third-Party Apps,Unauthorised,16183,10.9,,,,"UK Finance 2026, p.26",,
+2022,All,Third_Party_Apps,Third-Party Apps,Unauthorised,16687,17.3,,,,"UK Finance 2026, p.26",,
+2023,All,Third_Party_Apps,Third-Party Apps,Unauthorised,20795,31.8,,,,"UK Finance 2026, p.26",,
+2024,All,Third_Party_Apps,Third-Party Apps,Unauthorised,24407,19.5,,,,"UK Finance 2026, p.26",,
